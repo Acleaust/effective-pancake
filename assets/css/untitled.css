@@ -14,7 +14,6 @@ nav.navbar.navbar-default{
 
 div.heading{
   text-align:center;
-  padding-bottom:20px;
 }
 
 img.conimg{
@@ -24,6 +23,7 @@ img.conimg{
   margin-right:20px;
   margin-top:25px;
   margin-bottom:25px;
+  min-height:50px;
 }
 
 p.contxt{
@@ -32,7 +32,8 @@ p.contxt{
 
 div.col-md-6{
   background:#eeeeee;
-  height:260px;
+  max-height:400px;
+  max-width:px;
 }
 
 div.heading{
@@ -40,11 +41,13 @@ div.heading{
 }
 
 h2{
+  margin-bottom:10px;
 }
 
 footer{
   background-color:#404040;
   height:42px;
+  margin-top:20px;
 }
 
 p.footer{
