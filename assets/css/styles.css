@@ -7,10 +7,22 @@ h3{
 }
 
 div.content{
-  background-color:#eeeeee;
 }
 
 h1{
   font-size:32px;
+}
+
+div.content{
+  margin-top:20px;
+}
+
+div#hintaluokka.col-md-12{
+  background-color:#0e4a39;
+  color:#ffffff;
+}
+
+div.container{
+  background-color:#eeeeee;
 }
 
